@@ -47,6 +47,7 @@ const Navbar = () => {
     <div className='navbar-links-container'>
         <a href='/'>Home</a>
         <a href='/'>Nosotros</a>
+        <a href='/'>Especialidades</a>
         <a href='/'>Testimonios</a>
         <a href='/'>Contacto</a>
     </div>
