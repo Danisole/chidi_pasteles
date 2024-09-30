@@ -1,23 +1,23 @@
 import React from 'react'
-// import PickMeals from "../assets/pick-meals-image.png"
-// import ChooseMeals from "../assets/pick-meals-image.png"
-// import ChooseMeals from "../assets/pick-meals-image.png"
+import Pastel3 from "../assets/pastel_1.png"
+import Pastel2 from "../assets/pastel_2.png"
+import Pastel1 from "../assets/pastel_3.png"
 
 const Work = () => {
 
     const workInfoData = [
         {
-        //   image: PickMeals,
+          image: Pastel1,
           title: "Tres Leches",
           text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.",
         },
         {
-        //   image: ChooseMeals,
+          image: Pastel2,
           title: "Suspiro de Limon",
           text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et ",
         },
         {
-        //   image: DeliveryMeals,
+          image: Pastel3,
           title: "Pan de Muerto",
           text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et lorem ipsum",
         },

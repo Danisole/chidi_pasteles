@@ -238,6 +238,22 @@ nav {
   color: #4c4c4c;
   cursor: pointer;
 }
+.footer-section-columns a {
+  margin: 0.25rem 0rem;
+  font-weight: 600;
+  color: #4c4c4c;
+  text-decoration: none;
+}
+.footer-section-tree{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  font-weight: 600;
+  color: #4c4c4c;
+
+}
 .testimonial-section-bottom {
   margin-top: 2rem;
   background-color: white;
