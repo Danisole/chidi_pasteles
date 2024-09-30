@@ -14,10 +14,10 @@ const Home = () => {
             </div>
             <div className='home-text-section'>
                 <h1 className='primary-heading'> 
-                Pasteles con Toques Mexicanos en el Corazón de Argentina
+                Pasteles con toques mexicanos en el corazón de Argentina
                 </h1>
                 <p className='primary-text'>
-                    Pasteleria Artesanal con alma mexicana hechos en Argentina 
+                    Pasteleria artesanal con alma mexicana hechos en Argentina 
                 </p>
                 <button className='secondary-button'>
                     Contactanos <FiArrowRight/>

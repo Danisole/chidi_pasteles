@@ -9,15 +9,13 @@ const Testimonios = () => {
         <p className="primary-subheading">Testimonios</p>
         <h1 className="primary-heading">Que dicen de nosotros</h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+          Sabores que te transportan en un abrir y cerrar de ojos
         </p>
       </div>
       <div className="testimonial-section-bottom">
         <img src={ProfilePic} alt="" />
         <p>
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+          Chidi es una de las mejores propuestas mexicanas ya que explora sabores originales y los trae a nuestra Argentina para el deleite sin perder jamas el espiritu que quiere transmitir con sus sabores
         </p>
         <div className="testimonials-stars-container">
           <AiFillStar />

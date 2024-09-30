@@ -22,10 +22,10 @@ const About = () => {
               ikjlkjdcflkdsfcldskw
           </p>
           <div className='about-buttons-container'>
-            <button className='secondary-button'> learn More</button>
+            <button className='secondary-button'>Saber mas...</button>
             <button className='watch-video-button'>
               {""}
-              <BsFillPlayCircleFill/> Watch video
+              <BsFillPlayCircleFill/>Video
             </button>
 
           </div>

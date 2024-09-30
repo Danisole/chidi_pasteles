@@ -29,10 +29,8 @@ const Footer = () => {
             <a href='/'>Contacto</a>
             </div>
             <div className="footer-section-columns">
-            <span>244-5333-7783</span>
-            <span>hello@food.com</span>
-            <span>press@food.com</span>
-            <span>contact@food.com</span>
+                <span>244-5333-7783</span>
+                <span>hello@food.com</span>
             </div>
         </div>
         </div>
