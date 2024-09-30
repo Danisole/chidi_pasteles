@@ -16,10 +16,10 @@ const About = () => {
           <p className='primary-subheading'>Nosotros</p>
           <h1 className='primary-heading'>De Mexico para Argentina</h1>
           <p className='primary-text'>
-            hdhcklwhdfcweldk
+          Familia mexicana amante de la pastelería, llegamos a Argentina para compartir nuestros sabores
           </p>
           <p className='primary-text'>
-              ikjlkjdcflkdsfcldskw
+          Chidi fusiona nuestras raíces con toques argentinos, creando delicias que celebran nuestra historia
           </p>
           <div className='about-buttons-container'>
             <button className='secondary-button'>Saber mas...</button>

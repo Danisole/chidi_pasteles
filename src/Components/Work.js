@@ -9,17 +9,17 @@ const Work = () => {
         {
           image: Pastel1,
           title: "Tres Leches",
-          text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.",
+          text: "Bizcocho húmedo bañado en leche evaporada, condensada y crema, coronado con nata. Un clásico irresistible.",
         },
         {
           image: Pastel2,
           title: "Suspiro de Limon",
-          text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et ",
+          text: "Postre cremoso con manjar blanco y merengue suave, perfumado con canela. Dulzura auténtica.",
         },
         {
           image: Pastel3,
           title: "Pan de Muerto",
-          text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et lorem ipsum",
+          text: "Pan esponjoso con esencia de azahar, cubierto de azúcar. Tradicional en la festividad mexicana.",
         },
     ]; 
 
@@ -29,8 +29,7 @@ const Work = () => {
             <p className='primary-subheading'>Nuestras Propuestas</p>
             <h1 className='primary-heading'>Especialidades</h1>
             <p className='primary-text'>
-            Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-            elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+            Te presentamos algunas de las especialidades que nos destacan
             </p>
         </div>
         <div className='work-section-bottom'>
