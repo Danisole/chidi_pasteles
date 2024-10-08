@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Reem Kufi", sans-serif !important;
+  scroll-behavior: smooth;
 }
 img {
   max-width: 80%;
@@ -68,6 +69,37 @@ nav {
   font-size: 1.5rem;
   cursor: pointer;
 }
+.scroll-to-top-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 120px;
+  background-color: #333;
+  color: #f6f6f6;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 1000; /* Para asegurarte de que el botón esté por encima del contenido */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: opacity 0.3s ease;
+}
+
+.scroll-to-top-btn:hover {
+  background-color: #555;
+}
+
+/* Solo aparece cuando el botón está visible */
+.scroll-to-top-btn {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Oculta el botón cuando no es necesario */
+.scroll-to-top-btn.hidden {
+  opacity: 0;
+  visibility: hidden;
+}
+
 .home-banner-container {
   position: relative;
   display: flex;

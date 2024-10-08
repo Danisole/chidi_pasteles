@@ -6,7 +6,7 @@ import BannerImage  from '../assets/home-banner-image.png'
 
 const Home = () => {
   return (
-    <div className='home-container'>
+    <div className='home-container' id='home'>
         <Navbar/>
         <div className='home-banner-container'>
             <div className='home-bannerImage-container'>
@@ -20,7 +20,7 @@ const Home = () => {
                     Pasteleria artesanal con alma mexicana hechos en Argentina 
                 </p>
                 <button className='secondary-button'>
-                    Contactanos <FiArrowRight/>
+                    <a href='#contacto'  style={{textDecoration: 'none', color: "#f6f6f6"}}>Contactanos</a><FiArrowRight/>
                 </button>
 
 

@@ -22,15 +22,15 @@ const Footer = () => {
         </div>
         <div className="footer-section-two">
             <div className="footer-section-columns">
-            <a href='/'>Home</a>
-            <a href='/'>Nosotros</a>
-            <a href='/'>Especialidades</a>
-            <a href='/'>Testimonios</a>
-            <a href='/'>Contacto</a>
+            <a href='#home'>Home</a>
+            <a href='#about'>Nosotros</a>
+            <a href='#work'>Especialidades</a>
+            <a href='#testimonios'>Testimonios</a>
+            <a href='#contacto'>Contacto</a>
             </div>
             <div className="footer-section-columns">
-                <span>244-5333-7783</span>
-                <span>hello@food.com</span>
+                <span>264-5333-7783</span>
+                <span>chidimail@gmail.com</span>
             </div>
         </div>
         </div>

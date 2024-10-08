@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div className="contact-page-wrapper">
+    <div className="contact-page-wrapper" id="contacto">
       <p className="primary-subheading">Contacto</p>
       <h1 className="primary-heading">¿Tienes alguna pregunta?</h1>
       <h1 className="primary-heading">Te ayudamos</h1>
