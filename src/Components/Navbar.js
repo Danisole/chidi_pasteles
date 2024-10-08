@@ -81,7 +81,7 @@ const Navbar = () => {
     return (
       <nav>
         <div className='navbar-logo-container'>
-          {/* Aquí puedes poner tu logo */}
+            <a href='/'><img src={Logo} alt="" /></a>
         </div>
   
         {/* Links para la vista normal de la navbar */}
