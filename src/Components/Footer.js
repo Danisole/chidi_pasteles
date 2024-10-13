@@ -35,7 +35,7 @@ const Footer = () => {
         </div>
         </div>
         <div className="footer-section-tree">
-            <span>Copyright © 2024 Chidi Pasteleria</span>
+            <span>Copyright © 2024 Chidi Pasteleria by </span><a href="https://www.linkedin.com/in/daniela-reta" target="_blank"  style={{textDecoration: 'none', color: "pink"}}>Danisole</a>
             <span>All rights reserved</span>
         </div>
     </>
