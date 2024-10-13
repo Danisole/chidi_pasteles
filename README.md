@@ -7,10 +7,12 @@ En este proyecto se priorizo la funcionalidad haciendolo amigable y ordenado par
 el proyecto se confecciono de tal manera que fuera escalable en el tiempo y siga pudiendose perfeccionar a medida que se adquieran mas conocimientos.
 En este poyecto se uso para su confeccion el editor de codigo Visual Studio Code 
 
-####Tecnologias Utilizadas:
+#### Tecnologias Utilizadas:
 
 ![img icons8](https://github.com/user-attachments/assets/1cf4b161-8f4e-47a7-a690-784f9fd5f4c3)
-
+![img icons8](https://github.com/user-attachments/assets/e22e3130-2895-46da-aac6-586cb1a41c59)
+![img icons8](https://github.com/user-attachments/assets/f0795d13-6772-4076-8c5e-f877fe38cadd)
+![img icons8](https://github.com/user-attachments/assets/9d89f401-4ae8-4a73-a1f6-6f5ad50378f6)
 
 ## Instalación :gear:
 
@@ -50,7 +52,7 @@ Esto se realiza mediante el comando `npm install` :hammer_and_wrench:
 ### El deploy de la app se realizo a traves de Vercel conectado con gitHub  [Chidi Pasteleria](https://chidi-pasteles-c1b7.vercel.app/) :
 
 
-
+------------------------------------------------------------------------------------------------------------------------
 
 # Getting Started with Create React App
 
