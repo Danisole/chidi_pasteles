@@ -8,11 +8,14 @@ el proyecto se confecciono de tal manera que fuera escalable en el tiempo y siga
 En este poyecto se uso para su confeccion el editor de codigo Visual Studio Code 
 
 ####Tecnologias Utilizadas:
-![HTML](https://camo.githubusercontent.com/b9fe9f8e52c6fd30d814c24f3eb71cb09d7f5bc82d7f67a384055de93fdbb0bf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352d2d76312e706e67) ![CSS](https://camo.githubusercontent.com/dc75aee770dff630309493116eeebd6a39c7042e4e94780a5e6c8f107bebe76f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67) ![JS](https://camo.githubusercontent.com/84c2586aa67309f6fa224fdf5fdf33a633239375397a8e753ac1e7cc727f5458/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76312e706e67) ![React]
+![HTML] (https://camo.githubusercontent.com/b9fe9f8e52c6fd30d814c24f3eb71cb09d7f5bc82d7f67a384055de93fdbb0bf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352d2d76312e706e67) 
+![CSS] (https://camo.githubusercontent.com/dc75aee770dff630309493116eeebd6a39c7042e4e94780a5e6c8f107bebe76f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67) 
+![JS] (https://camo.githubusercontent.com/84c2586aa67309f6fa224fdf5fdf33a633239375397a8e753ac1e7cc727f5458/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76312e706e67) 
+![React] (https://camo.githubusercontent.com/87eaacdd6dcb493590c499bc4059ed65b5ed9596b49957effefd372d37d8c2c8/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d332f3630302f52656163742e6a735f6c6f676f2d34322e706e67)
 
 ## Instalación :gear:
 
-Para su uso lo primero que deberiamos hacer es dirigirnos al  [Repo](https://github.com/Danisole/finalcoder.git) donde se encuentra alojado el repositorio.
+Para su uso lo primero que deberiamos hacer es dirigirnos al  [Repo](https://github.com/Danisole/chidi_pasteles) donde se encuentra alojado el repositorio.
 
 ### Pasos a seguir :clipboard:
 
@@ -28,7 +31,7 @@ Para su uso lo primero que deberiamos hacer es dirigirnos al  [Repo](https://git
 Esto se realiza mediante el comando `npm install` :hammer_and_wrench:
 
 
-*    "@emotion/react": "^11.13.3",
+*   "@emotion/react": "^11.13.3",
 *   "@emotion/styled": "^11.13.0",
 *   "@mui/icons-material": "^6.1.1",
 *   "@mui/material": "^6.0.1",
