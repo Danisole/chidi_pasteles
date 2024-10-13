@@ -1,3 +1,59 @@
+# App Chidi Pasteleria mexicana:
+
+hola soy Daniela Reta docente de Nivel Inicial hace mas de 15 años y actualmente estudiante de Programación hace un año. En este primer acercamiento a la programacion tiene una inclinacion al Frontend. se pueden visualizar algunos de mis trabajos en mi cuenta de GitHub [Danisole](https://github.com/Danisole)
+
+El objetivo de esta app es poder mostrar de manera elegante una Landing Page realizada con React libreria de JS.
+En este proyecto se priorizo la funcionalidad haciendolo amigable y ordenado para el usuario con un estilo sobrio para su mayor usabilidad y se paso por los filtros de accesiblidad para cuidar ese detalle.
+el proyecto se confecciono de tal manera que fuera escalable en el tiempo y siga pudiendose perfeccionar a medida que se adquieran mas conocimientos.
+En este poyecto se uso para su confeccion el editor de codigo Visual Studio Code 
+
+#### Tecnologias Utilizadas:
+
+![img icons8](https://github.com/user-attachments/assets/1cf4b161-8f4e-47a7-a690-784f9fd5f4c3)
+![img icons8](https://github.com/user-attachments/assets/e22e3130-2895-46da-aac6-586cb1a41c59)
+![img icons8](https://github.com/user-attachments/assets/f0795d13-6772-4076-8c5e-f877fe38cadd)
+![img icons8](https://github.com/user-attachments/assets/9d89f401-4ae8-4a73-a1f6-6f5ad50378f6)
+
+## Instalación :gear:
+
+Para su uso lo primero que deberiamos hacer es dirigirnos al  [Repo](https://github.com/Danisole/chidi_pasteles) donde se encuentra alojado el repositorio.
+
+### Pasos a seguir :clipboard:
+
+1. Dirigirnos a GitHube 
+1. En el margen derecho superior clickear [<>Code] donde se despliega un menu.
+1. El menu desplegable contiene la direccion de GitHub con el icono para copiarla.
+1. Copiamos el link para luego clonar el repositorio en nuestro equipo:
+   * Abrir el editor de tu preferencia (personalmente mi favorito es VSC)
+   * Crear un proyecto donde alojaremos nuestro repositorio clonado
+   * Desde la consola accedemos a Git Bash ahi colocamos los comandos "git clone" + el  link copiado, esperamos que descargue el proyecto para luego comenzar a usarlo.
+
+1. Realizados los pasos anteriores debemos proceder a instalar las dependencias correspondientes para su correcto uso:
+Esto se realiza mediante el comando `npm install` :hammer_and_wrench:
+
+
+*   "@emotion/react": "^11.13.3",
+*   "@emotion/styled": "^11.13.0",
+*   "@mui/icons-material": "^6.1.1",
+*   "@mui/material": "^6.0.1",
+*   "@testing-library/jest-dom": "^5.17.0",
+*   "@testing-library/react": "^13.4.0",
+*   "@testing-library/user-event": "^13.5.0",
+*   "react": "^18.3.1",
+*   "react-dom": "^18.3.1",
+*   "react-floating-whatsapp": "^5.0.8",
+*   "react-icons": "^5.3.0",
+*   "react-scripts": "5.0.1",
+*   "sweetalert2": "^11.14.2",
+*   "web-vitals": "^2.1.4"
+
+1. El listado anterior corresponde a los paquetes usados en este proyecto cada uno con su finalidad especifica y sin estar sobrecargado para priorizar el codigo limpio y ordenado.
+
+### El deploy de la app se realizo a traves de Vercel conectado con gitHub  [Chidi Pasteleria](https://chidi-pasteles-c1b7.vercel.app/) :
+
+
+------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
