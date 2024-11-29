@@ -6,6 +6,8 @@ import Work from './Components/Work';
 import Testimonios from './Components/Testimonios';
 import Contact from './Components/Contacto';
 import WhatsappBtn from './Components/Whatsapp';
+import Form from './Components/Form';
+
 
 function App() {
   return (
@@ -15,7 +17,8 @@ function App() {
       <About/>
       <Work/>
       <Testimonios/>
-      <Contact/>
+      <Form/>
+      {/* <Contact/> */}
       <Footer/>
     </>
     
