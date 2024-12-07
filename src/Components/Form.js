@@ -37,9 +37,10 @@ const Form = () => {
       <form onSubmit={handleSubmit(onSubmit)} className="contact-form-container">
         
         <div>
-          <label>Nombre y Apellido</label>
+          {/* <label>Nombre y Apellido</label> */}
           <input 
             type="text" 
+            placeholder='Apellido y Nombre'
              {...register("nombre", { 
               required: "El campo nombre es requerido", 
               maxLength: { value: 20, message: "El nombre debe tener hasta 20 caracteres" }, 
@@ -51,9 +52,10 @@ const Form = () => {
 
         
         <div>
-          <label>Mail</label>
+          {/* <label>Mail</label> */}
           <input 
             type="email" 
+            placeholder='Mail'
             {...register("email", { 
               required: "El campo email es requerido" 
             })} 
